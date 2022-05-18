@@ -1,0 +1,1 @@
+cat libre.dmg.* > libre.dmg
